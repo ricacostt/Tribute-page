@@ -1,2 +1,59 @@
-# tribute-page
-*Falcone & Borsellino*
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="styles.css">
+<style>
+  body {
+    background-color: gray;
+    color: white;
+    font-family: roboto;
+  }
+</style>
+<main id="main">
+<div id="main">
+  <h1 id="title"> Giovanni Falcone & Paolo Borsellino </h1>
+  <h2 id="subtitle"> the courage to be heroes </h2>
+  <div id="img-div">
+    <a id="tribute-link" target="_blank" href="https://www.focusjunior.it/news/chi-erano-falcone-e-borsellino/">
+    <img id="image" src="https://www.focusjunior.it/content/uploads/site_stored/imgs/0003/021/falcone_borsellino_biografia-breve_due-minuti-di-arte-1280x720.jpg" alt="Giovanni Falcone and Paolo Borsellino smiling during a debate in Palermo in 1992, the year they were both killed" width="100%" height="100%">
+    </a>
+    
+    <figcaption id="img-caption"> Giovanni Falcone and Paolo Borsellino smiling during a debate in Palermo in 1992, the year they were both killed. </figcaption>
+  </div>
+  
+  <p id="tribute-info">
+    <b> This is a story that sums up the essence of Falcone & Borsellino intertwined lives </b>
+    
+     <ul>
+            <li>Falcone and Borsellino were contemporaries (Giovanni Falcone was born on 20 May 1939, Paolo Borsellino eight months later, on 19 January); they had known each other since childhood, when they spent afternoons playing football in the Kalsa district of Palermo, Sicily.</li>
+            <li>Both studied at the classical high school and graduated in law.
+Falcone, after getting married, took the first steps of his career in Lentini (Syracuse) as a magistrate and later worked in Trapani for 12 years where he began to come into contact with the reality of the Mafia. Paolo, meanwhile, had begun his career at the civil court of Enna as a judicial auditor, in 1968 he also married and had three children.  In 1969, he was transferred to Monreale, where he worked side by side with Carabinieri captain E. Basile, who was killed by the Mafia in 1980. "They killed my brother," said Borsellino on that occasion, and he set about investigating the murder.
+Falcone, meanwhile, who had also moved to Palermo, worked on the trial of building constructor Rosario Spatola, accused of mafia association. It was thus that the two old friends got back in touch and began exchanging information on the investigation. Among other things, the Spatola trial highlighted the qualities of Falcone, who accompanied the investigation with banking and corporate investigations: an innovative method of investigation that proved highly effective. Follow the money 'follow the money and you will find out everything'. They began investigating the copies of cheques, each one 'tells a story and a connection between two people, who where and when gave something to someone': all that remains is to ask the suspect why.</li>
+<li>The situation in Palermo was changing rapidly, the mafia war had begun in the last months of 1981 and the first months of 1982, which caused one death every three days in the Sicilian capital. The victims numbered around 1,200, a civil war figure, which thinned the ranks of the enemy cosche of the 'capo dei capi', Totò Riina. And behind them were Viddani, Rina's 'peasants'.
+After several isolated attempts to repress the Mafia, a great innovation took place: the Anti-Mafia Pool was formed (Falcone and Borsellino were among the first to be chosen) where the fight became a group struggle with the objective of defeating "Cosa Nostra". </li>
+<li>Falcone leveraged not only the cheques but also the turncoats. The first in the story Tommaso Buscetta, drug trafficker (Palermo 1928-2000 Florida). His words to Falcone: 'I warn you Mr. Judge. After this interrogation you will become a celebrity. But they will try to destroy you physically and professionally. Don't forget that the account you opened with Cosa Nostra will never be closed. Are you still of the opinion to interrogate me?"
+That confession was of historic importance, Falcone shared: "Before him we had only a superficial idea of the Mafia phenomenon. With him we began to look into it. He gave us a great deal of confirmation about the structure, recruitment techniques, and functions of Cosa Nostra. But above all, he gave us a global, wide-ranging view of the phenomenon'.</li>
+<li>Subsequently, he received more than 20 mafia repentances, and in the meantime Riina was preparing for a summer of bloodshed.
+For the two magistrates, the aim was to try the mafia itself, not an individual, and from there the biggest trial in Italian history was born.
+Falcone and Borsellino, with their respective families, were hastily transferred to Asinara, the prison-island in the north-west of Sardinia, to conclude the maxi-trial, which was filed on 8 November of that year. At the end of that period, which lasted 33 days in fact, the State had the audacity to present the magistrates with the bill for their stay: 'Before we left, they made us pay 415,800 lire each for the overnight stay, 12,600 lire a day'.
+The maxi-trial, with as many as 475 defendants, was the biggest attack on the Mafia ever conducted in Italy. It began on 10 February 1986 and ended on 16 December 1987 346 convictions 19 life sentences 2655 years imprisonment
+For the first time, the Mafia was struck down as a Mafia.</li>
+<li>Contrary to what one might imagine, they are not carried on their shoulders in triumph and do not hold roles of greater responsibility but clash with an unfavourable political climate. The anti-Mafia pool was dismembered, Falcone was overtaken by less competent but older colleagues. The anti-Mafia pool came to an end and an attempt was made to assign magistrates ever smaller cases.
+Falcone decided to move to Rome where he became director of criminal affairs and wanted to create a war machine - a super prosecutor's office to fight Cosa Nostra. With a decree he devised, he returned to prison the previously released Cosa Nostra defendants and also tried to defuse possible corrupt influences. In the meantime, Paolo Borsellino had returned to Palermo as deputy prosecutor and with a leading role in mafia investigations.</li>
+<li>In May 1992, the cassation definitively confirmed the convictions of the Maxi-trial. Where Toto Riina was sentenced to life imprisonment and ordered revenge against the state.
+This took the form of the Capaci Massacre, an attack carried out by Cosa Nostra: on 23 May of the same year, 500 kilos of explosives blew up the Capaci motorway, killing magistrate Giovanni Falcone. 
+After the incident, Paolo Borsellino became the new wall to climb over; he tried to carry on the fight with all his might, aware of what the future would hold for him. On 13 July, disconsolate, he declared: 'I know the TNT has arrived for me'. To his wife Agnese he said: 'The Mafia will kill me when others will decide it'. On 19 July, the explosion of the car bomb that killed him and five of his escort was heard throughout Palermo. "It is all over," was the comment of Antonino Caponnetto (colleague of the Pool).</li>
+</ul>
+  </p>
+  <section>
+  <p>Never give up 'Battles you believe in are never lost battles'.
+The Corleonesi have been disarmed, but the fight against the Mafia is still long. The fog in Sicily is still thick.</p>
+<p>'The mafia resembles the Palermitans, the Sicilians, the Italians. Mafiosi are not Martians. The mafia is no stranger to the social fabric that expresses it, it is not a cancer that has proliferated by chance on a healthy fabric. It lives in perfect symbiosis with the myriad of protectors, accomplices, informers, debtors of all kinds, great and small master singers, intimidated or blackmailed people who belong to all strata of society'. (Giovanni Falcone) </p>
+<p>The appeal to make, as Paolo Borsellino said,is: "Talk about the Mafia. Talk about it on the radio, on television, in the newspapers. But talk about it."</p>
+</section>
+</div>
+</main>
+<footer>
+  <p>If their stories got you involved and you want to know more, visit: <a href="https://en.wikipedia.org/wiki/Paolo_Borsellino"> Paolo Borsellino </a> - <a href="https://en.wikipedia.org/wiki/Giovanni_Falcone"> Giovanni Falcone </a> or if you have time watch this<a href="https://www.dailymotion.com/video/x4js4vv"> documentary. </a>
+  </p>
+   </footer>
+</html>
