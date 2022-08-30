@@ -1,13 +1,6 @@
 
 <html lang="en">
   <link rel="stylesheet" href="styles.css">
-<style>
-  body {
-    background-color: gray;
-    color: white;
-    font-family: roboto;
-  }
-</style>
 <main id="main">
 <div id="main">
   <h1 id="title"> Giovanni Falcone & Paolo Borsellino </h1>
