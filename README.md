@@ -25,8 +25,7 @@
     
      <ul>
             <li>Falcone and Borsellino were contemporaries (Giovanni Falcone was born on 20 May 1939, Paolo Borsellino eight months later, on 19 January); they had known each other since childhood, when they spent afternoons playing football in the Kalsa district of Palermo, Sicily.</li>
-            <li>Both studied at the classical high school and graduated in law.
-Falcone, after getting married, took the first steps of his career in Lentini (Syracuse) as a magistrate and later worked in Trapani for 12 years where he began to come into contact with the reality of the Mafia. Paolo, meanwhile, had begun his career at the civil court of Enna as a judicial auditor, in 1968 he also married and had three children.  In 1969, he was transferred to Monreale, where he worked side by side with Carabinieri captain E. Basile, who was killed by the Mafia in 1980. "They killed my brother," said Borsellino on that occasion, and he set about investigating the murder.
+            <li>Both studied at the classical high school and graduated in law. Falcone, after getting married, took the first steps of his career in Lentini (Syracuse) as a magistrate and later worked in Trapani for 12 years where he began to come into contact with the reality of the Mafia. Paolo, meanwhile, had begun his career at the civil court of Enna as a judicial auditor, in 1968 he also married and had three children.  In 1969, he was transferred to Monreale, where he worked side by side with Carabinieri captain E. Basile, who was killed by the Mafia in 1980. "They killed my brother," said Borsellino on that occasion, and he set about investigating the murder.
 Falcone, meanwhile, who had also moved to Palermo, worked on the trial of building constructor Rosario Spatola, accused of mafia association. It was thus that the two old friends got back in touch and began exchanging information on the investigation. Among other things, the Spatola trial highlighted the qualities of Falcone, who accompanied the investigation with banking and corporate investigations: an innovative method of investigation that proved highly effective. Follow the money 'follow the money and you will find out everything'. They began investigating the copies of cheques, each one 'tells a story and a connection between two people, who where and when gave something to someone': all that remains is to ask the suspect why.</li>
 <li>The situation in Palermo was changing rapidly, the mafia war had begun in the last months of 1981 and the first months of 1982, which caused one death every three days in the Sicilian capital. The victims numbered around 1,200, a civil war figure, which thinned the ranks of the enemy cosche of the 'capo dei capi', Totò Riina. And behind them were Viddani, Rina's 'peasants'.
 After several isolated attempts to repress the Mafia, a great innovation took place: the Anti-Mafia Pool was formed (Falcone and Borsellino were among the first to be chosen) where the fight became a group struggle with the objective of defeating "Cosa Nostra". </li>
@@ -57,3 +56,14 @@ The Corleonesi have been disarmed, but the fight against the Mafia is still long
   </p>
    </footer>
 </html>
+#img-caption
+{
+  width: 450px;
+}
+
+#image
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
