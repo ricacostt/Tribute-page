@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <link rel="stylesheet" href="styles.css">
 <style>
@@ -56,14 +56,3 @@ The Corleonesi have been disarmed, but the fight against the Mafia is still long
   </p>
    </footer>
 </html>
-#img-caption
-{
-  width: 450px;
-}
-
-#image
-{
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
