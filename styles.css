@@ -1,0 +1,45 @@
+#img-caption
+{
+  width: auto;
+}
+
+#image
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+ body {
+    background-color: white;
+    color: black;
+    font-family: tahoma;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+  h2 {
+    margin-bottom: 60px;
+  }
+
+  p {
+    margin-top: 4em;
+    margin-bottom: 2em;
+    text-align: center;
+  }
+  li {
+    padding: 0.5em;
+  }
+h4[id="conclusion"] {
+  text-align: left;
+  font-weight: bold;
+
+}
+
+h4[id="cit"] {
+  text-align: left;
+  font-style: italic;
+}
+
+h4[id="appeal"] {
+  text-align: left;
+}
